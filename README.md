@@ -45,10 +45,6 @@
 
 ###
 
-<p align="left">✧ ------------------------------------------------------------------------------------------------------------------------------------------------------ ✧</p>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sterreis/sterreis/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sterreis/sterreis/output/pacman-contribution-graph.svg">
@@ -57,14 +53,6 @@
 
 ###
 
-<p align="left">✧ ------------------------------------------------------------------------------------------------------------------------------------------------------ ✧</p>
-
-###
-
-<h3 align="center">ᴏ ǫᴜᴇ ᴠᴏᴄᴇ ᴇɴᴄᴏɴᴛʀᴀ ᴀǫᴜɪ</h3>
-
-###
-
-<p align="left">Essa conta é uma coleção dos meus futuros projetos, exercícios e experimentos, acompanhando minha evolução com desenvolvedora.</p>
+<p align="left"></p>
 
 ###
